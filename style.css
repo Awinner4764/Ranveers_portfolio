@@ -42,7 +42,7 @@ body{
 
 .navbar.sticky::before {
     content: '';
-    background: url("images/dark-green-leaves-background-hydrangea-260nw-1699508995.jpg") ;
+    background: url("images/headerpic.png") ;
     position: absolute;
     opacity: 1;
     top: -10px;
@@ -550,7 +550,7 @@ section .title::after{
 
 /* footer styling */
 footer{
-    background: url("images/dark-green-leaves-background-hydrangea-260nw-1699508995.jpg") ;
+    background: url("images/headerpic.png") ;
     padding: 20px 23px;
     color: white;
 }
