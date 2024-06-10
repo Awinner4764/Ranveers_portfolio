@@ -215,7 +215,7 @@ section .title::after{
 }
 /* about section styling */
 .about{
-    background: url("images/leaves_bushes_green_174515_3840x2400.jpeg");
+    background: url("images/starry_image.jpg");
     background-size: 2000px;
 }
 .about .title::after{
