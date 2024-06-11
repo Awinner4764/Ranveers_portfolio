@@ -639,12 +639,12 @@ footer i:hover{
    
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: rgb(87,142,84); 
+    background: rgb(230,92,0); 
   }
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: rgb(87,142,84); 
+    background: rgb(230,92,0); 
   }
 
 /* response media query starts */
