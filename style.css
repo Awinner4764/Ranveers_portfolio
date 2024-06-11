@@ -66,7 +66,7 @@ body{
 }
 
 .navbar .logo a span {
-    color: #a901ac;
+    color: #e65c00;
     transition: all 0.3s ease;
 }
 
@@ -92,7 +92,7 @@ body{
     font-weight: 500;
     margin-left: 25px;
     transition: color 0.3s;
-    color: #fff;
+    color: #e65c00;
     text-decoration: none;
     display: inline-block;
     padding: 15px 20px;
@@ -151,10 +151,12 @@ body{
 
 .home .home-content .text-1 {
     font-size: 27px;
+    color: #e65c00;
 }
 
 .home .home-content .text-2 {
     font-size: 75px;
+    color: #e65c00;
     font-weight: 600;
     margin-left: -3px;
 }
@@ -165,7 +167,7 @@ body{
 }
 
 .home .home-content .text-3 span {
-    color: #a901ac;
+    color: #e65c00;
     font-weight: 500;
 }
 
