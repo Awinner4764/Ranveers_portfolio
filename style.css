@@ -238,7 +238,7 @@ section .title::after{
     width: 55%;
  }
  .about .about-content .right .text{
-    color: white;
+    color: #e65c00;
     font-size: 25px;
     font-weight: 600;
     margin-bottom: 10px;
