@@ -247,7 +247,7 @@ section .title::after{
      color: #e65c00;
  }
  .about .about-content .right .paragraph{
-     color: #0000ff;
+     color: #808080;
      font-size: 20px;
  }
  .about .about-content .right .p{
@@ -335,7 +335,7 @@ section .title::after{
 }
 .skills .skills-content .left .paragraph-2{
     font-size: 17px;
-    color: #0000ff;
+    color: #808080;
 }
 .skills .skills-content .left .p{
     text-align: justify;
