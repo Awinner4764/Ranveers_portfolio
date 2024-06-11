@@ -562,13 +562,13 @@ footer .text-center {
     text-align: center !important; }
 
 footer span a{
-    color: #a901ac;
+    color: #e65c00;
     transition: color 0.3s ease;
 }
 footer i{
     padding-left: 10px;
     font-size: 25px;;
-    color: #a901ac;
+    color: #e65c00;
     transition: color 0.3s ease;
 }
 footer span a:hover{
