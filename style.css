@@ -132,7 +132,7 @@ body{
 
 .home {
     display: flex;
-    background: url("images/leaves_bushes_green_174515_3840x2400.jpg") no-repeat center;
+    background: url("images/home_background.jpg") no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     height: 100vh;
