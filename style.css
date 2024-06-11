@@ -232,7 +232,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .about .about-content .left img:hover{
-    transform: scale(1.05);
+    transform: scale(1.1);
 }
 .about .about-content .right{
     width: 55%;
@@ -244,10 +244,10 @@ section .title::after{
     margin-bottom: 10px;
  }
  .about .about-content .right .text span{
-     color: #a901ac;
+     color: #e65c00;
  }
  .about .about-content .right .paragraph{
-     color: white;
+     color: #4dffff;
      font-size: 18px;
  }
  .about .about-content .right .p{
@@ -256,13 +256,13 @@ section .title::after{
  .about .about-content .right a{
     display: inline-block;
     background: none;
-    color: #a901ac;
+    color: #e65c00;
     margin-top: 20px;
     font-size: 20px;
     font-weight: 500;
     padding: 5px 30px;
     border-radius: 6px;
-    border: 2px solid #a901ac;
+    border: 2px solid #e65c00;
     transition: all 0.3s ease;
  }
  .about .about-content .right a:hover{
