@@ -572,13 +572,13 @@ footer i{
     transition: color 0.3s ease;
 }
 footer span a:hover{
-    color: white;
+    color: #e65c00;
 }
 footer i{
     font-size: 27px;
 }
 footer i:hover{
-    color: white;
+    color: #e65c00;
 }
 
 /* CSS for scroll to top button */
